@@ -17,3 +17,4 @@ def reduce(array, sv=nil)
     i = 1
   end
     
+  while 1 
