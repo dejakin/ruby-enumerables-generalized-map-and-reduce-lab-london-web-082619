@@ -5,5 +5,5 @@ def map(array)
       new.push(yield(array[i]))
       i += 1
     end
-    new
+    return new
 end
